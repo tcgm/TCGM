@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tcgm/TCGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Earth](https://thecrazygamemaster.com/images/EarthStars.png "Earth")
+
+## Hello There!
+
+### I make things! Cracky things. Adventurey things. And apparently funny things. Writing, games, videos, dungeoneering, animation, modeling, memes, orbital bombardment and muchkins. Welcome to my little corner of the Kardashev L1 Communications Network's Github subdirectory.
+
